@@ -194,6 +194,9 @@
     },
     "tooltips":{
       "enabled":false
+    },
+     "qualitySelection":{
+      "format": "resolution"
     }
   },
   "live": {
