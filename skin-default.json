@@ -211,7 +211,7 @@
       "enabled":false
     },
      "qualitySelection":{
-      "format": "resolution bitrate"
+      "format": "resolution"
     }
   },
   "live": {
