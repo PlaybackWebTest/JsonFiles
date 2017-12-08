@@ -166,7 +166,7 @@
     "textEnhancement": "Uniform"
   },
   "upNext": {
-    "showUpNext": true,
+    "showUpNext": false,
     "timeToShow": 10
   },
   "controlBar": {
