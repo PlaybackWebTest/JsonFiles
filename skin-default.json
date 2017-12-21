@@ -63,7 +63,7 @@
       "md": {"id": "md", "name": "oo-medium", "minWidth": 840, "maxWidth": 1279, "multiplier": 1},
       "lg": {"id": "lg", "name": "oo-large", "minWidth": 1280, "multiplier": 1.2}
     },
-    "aspectRatio": "75"
+    "aspectRatio": "auto"
   },
   "startScreen": {
     "promoImageSize": "default",
