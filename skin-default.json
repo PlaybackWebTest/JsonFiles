@@ -4,7 +4,7 @@
                   "position": "bottomRight",
                   "clickUrl": "",
                   "target": "_blank",
-                  "transparency": 1,
+                  "transparency": 0.5,
                   "scalingOption": "default",
                   "scalingPercentage": 20
     },
