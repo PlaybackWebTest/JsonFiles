@@ -60,7 +60,8 @@
     "tk": "rtl",
     "ug": "rtl",
     "ur": "rtl",
-    "yi": "rtl"
+    "yi": "rtl",
+    "en":"rtl"
   },
   "responsive": {
     "breakpoints": {
