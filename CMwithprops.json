@@ -1,0 +1,41 @@
+{
+  "type": "text",
+  "markerList": [
+    {
+      "start": 2,
+      "text": "Goal!!",
+      "markerColor": "#f45642",
+      "end": 4,
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917"
+    },
+    {
+      "start": 4,
+      "end": 5,
+      "markerColor": "#f45642",
+      "backgroundColor": "#f45642",
+      "hoverColor": "#9e09a0",
+      "text": "Goal!!"
+    },
+    {
+      "start": 6,
+      "end": 8,
+      "type": "icon",
+      "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "type": "icon",
+      "markerColor": "#ead917",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/download.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/vinayakkaladhar/test/master/ooyala.jpeg"
+    }
+  ]
+}
