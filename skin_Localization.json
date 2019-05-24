@@ -17,19 +17,19 @@
     "availableLanguageFile": [
       {
         "language": "en",
-        "languageFile": "",
+        "languageFile": "/en.json",
         "androidResource": "skin-config/languageFiles/en.json",
         "iosResource": "en"
       },
       {
         "language": "es",
-        "languageFile": "",
+        "languageFile": "/es.json",
         "androidResource": "skin-config/languageFiles/es.json",
         "iosResource": "es"
       },
       {
         "language": "zh",
-        "languageFile": "",
+        "languageFile": "/zh.json",
         "androidResource": "skin-config/languageFiles/zh.json",
         "iosResource": "zh"
       },
